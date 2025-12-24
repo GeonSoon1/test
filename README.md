@@ -1,2 +1,1 @@
-# test
-moonshot_test
+# 프로젝트 이름
